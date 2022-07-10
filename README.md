@@ -5,7 +5,7 @@ I am passionate about finding solutions to real-life problems.
 
 *   🌍  I'm based in Nairobi
 *   ✉️  You can contact me at [munenecarl@gmail.com](mailto:munenecarl@gmail.com)
-*   🧠  I'm learning Django
+*   🧠  I'm learning Computer Science at Daystar University
 *   🤝  I'm open to collaborating on interesting and engaging projects
 *   ⚡  I am also love music and poetry### Skills<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
