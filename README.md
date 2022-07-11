@@ -5,7 +5,7 @@ I am passionate about finding solutions to real-life problems.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [munenecarl@gmail.com](mailto:munenecarl@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm currently learning computer science at Daystar University
 * 🤝  I'm open to collaborating on interesting and engaging projects
 * ⚡  I am also love music and poetry
 
