@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am passionate about finding solutions to real-life problems.
 
-* 🌍  I'm based in Nairobi
+* 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [munenecarl@gmail.com](mailto:munenecarl@gmail.com)
 * 🧠  I'm currently learning computer science at Daystar University
 * 🤝  I'm open to collaborating on interesting and engaging projects
