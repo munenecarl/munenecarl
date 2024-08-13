@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carl Munene
 ===================================================================================================================================
 
-I am passionate about finding solutions to real-life problems.
+I like to rack my brain from time to time.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [munenecarl@gmail.com](mailto:munenecarl@gmail.com)
-* 🧠  I'm currently learning computer science at Daystar University
+* 🧠  Studied computer science at Daystar University
 * 🤝  I'm open to collaborating on interesting and engaging projects
-* ⚡  I am also love music and poetry
+* ⚡  I also love music and food
 
 ### Skills
 
