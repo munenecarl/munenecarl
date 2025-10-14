@@ -13,5 +13,4 @@ I like to rack my brain from time to time.
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/carl-munene-b71843247/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/carl_munene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
