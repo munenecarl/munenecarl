@@ -5,7 +5,6 @@ I like to rack my brain from time to time.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [munenecarl@gmail.com](mailto:munenecarl@gmail.com)
-* 🧠  Studied computer science at Daystar University
 * 🤝  I'm open to collaborating on interesting and engaging projects
 * ⚡  I also love music and food
 
